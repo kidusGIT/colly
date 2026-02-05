@@ -1,3 +1,4 @@
+// module github.com/gocolly/colly/v2
 module github.com/gocolly/colly/v2
 
 go 1.24.0
